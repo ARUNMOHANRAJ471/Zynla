@@ -4,7 +4,7 @@ node {
   sh "env"
 
   stage 'Checkout Repository'
-  git url: 'https://github.com/stackroute-immersive-wave/Zynla.git', branch: "${env.BRANCH_NAME}"
+  git url: 'https://github.com/ARUNMOHANRAJ471/Zynla.git', branch: "master"
 
   stage 'Installing Dependencies'
   sh "npm prune"
