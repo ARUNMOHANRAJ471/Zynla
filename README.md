@@ -38,7 +38,6 @@ WIP
 ## Supports
 
 - Webpack
-- Material UI
 - Hot Module replacement
 - React Hotloading (persists state)
 - Recommended folder structure for a react.js webapp project
