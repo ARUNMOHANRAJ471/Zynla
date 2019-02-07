@@ -17,7 +17,7 @@ To create a collaborative platform that gets users the most relevant answers the
 - Take advantage of search preferences of domain experts 
 - Take advantage of diverse experience and expertise levels of community members on a subject matter
 - Take advantage of similarity and repetition of queries of search communities as a source of recommendations
-- Take advantage of social networking to 
+- Take advantage of social networking
 
 ## Use Cases
 - **Health/medicine**: We needed to find information about iron deficiency and hypokalemia
