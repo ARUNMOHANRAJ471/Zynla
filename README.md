@@ -6,7 +6,7 @@ Zynla is a place where you can find the Webs best answers from friends, experts,
 ## Background
 Based on research, one primary design problem of search engines is its solitary nature. Searches take the form of an isolated interaction among the user and the search engine. Due to this drawback, search engines overlook the experience of users, which is useful for offering a more accurate result list in comparison to the others with similar preferences. The second inherent problem is one-size-fits-all, which means that irrespective of having different preferences, several users get the same results when they use the same query.
 
-Zynla is a first of its kind collaborative platform that you can ask, search, and answer as a team
+Zynla is a first of its kind collaborative platform that you can ask, search, and answer as a team...
 
 ## Objective
 To create a collaborative platform that gets users the most relevant answers they ask for.
